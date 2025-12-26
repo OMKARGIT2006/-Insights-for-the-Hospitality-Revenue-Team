@@ -36,7 +36,7 @@ AtliQ Grands, an established five-star hotel chain in India, is currently losing
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-[Click here to get dataset](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv) 
+[Click here to get dataset]() 
 
 ---
 
@@ -96,7 +96,7 @@ The objective of this analysis is to :
   - Avg Rating
   - Cancellation%   
 
-![Dashboard](customer_behavior_dashboard.png)
+![Dashboard](hospitality_power_bi_dashboard.png)
 
 ---
 <h2><a class="anchor" id="Final-Recommendations"></a>Final Recommendations</h2>
